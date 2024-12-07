@@ -1,5 +1,5 @@
 # 💫 About Me:
-Postdoctoral Researcher Working on particle physics data analysis
+Postdoctoral Researcher working on particle physics data analysis
 
 
 ## 🌐 Socials:
